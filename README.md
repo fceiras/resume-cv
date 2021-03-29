@@ -101,32 +101,11 @@ MiKrotik: CCR1036-12G
 
 ```
 - AWS Security Fundamentals
-- AWS Certified SysOps Administrator
-- AWS EC2: High availability and scalable
 - AWS Technical Essentials
 - AWS Technical Professional
-- AWS Solutions Architect
 - AWS CloudFront
-- AWS EC2, CloudFront and the Route53 - Alura
-- AWS S3: Object working out and storage on Cloud - Alura
-- Docker
-- Git: Computer Code controlling and sharing
 - VMWare NSX: The technical overview
-- VMware Certified Professional
-- VMware VCenter: Configuration Manager
-- VMware Virtual SAN: Deploy and Manage [V5.5]
-- VMware vSphere with Operations Management
-- VMware vSphere: Data protection and recover fundamentals
-- VMware vSphere: Fast Track [V5.5]
-- VMware vSphere: Setup, Configure and Management
-- VMware vSphere: Optimizing and Scaling
-- Docker: Setup and management - Alura
-- Sophos Endpoint Cerfitied
-- Cisco Executive Workshop Attendee
-- Clusters and high ability on Linux – Sucesu – SP
-- ITIL Foundation V3
-- JIRA - Administration
-- Linux Professional Institute - LPI 101 e 102
+- Linux Professional Institute - LPI 101
 ```
 
 ### LANGUAGE SKILLS:
