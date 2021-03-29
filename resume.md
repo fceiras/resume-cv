@@ -39,19 +39,13 @@ Performance in the area of ​​Networks / SysAdmin / Infra / DevOps
 * Network specialist
 
 ```
-Implementation of the IPv6 dual-stack structure in the Core of the Network.
-
-Design and implementation of the entire topology of the new Cloud in DC 02, following full redundancy and dual stack IPv4 / IPv6 parameters.
-
-Implementation of BGP Links for the dissemination of public prefixes
-
-Configuration, creation and implementation of the migration structure between datacentes, without changing the public and / or private address.
-
-Fully redundant network designs with Juniper, for a large retail customer with 110+ devices with 2 links in each location, fully switchable using IPsec VPN and BGP dynamic routing and GRE tunnels.
-
-Activation of new clients using a dedicated firewall.
-
-Activation of BGP between operators, Tunnels to mitigate DDoS attacks.
+- Implementation of the IPv6 dual-stack structure in the Core of the Network.
+- Design and implementation of the entire topology of the new Cloud in DC 02, following full redundancy and dual stack IPv4 / IPv6 parameters.
+- Implementation of BGP Links for the dissemination of public prefixes
+- Configuration, creation and implementation of the migration structure between datacentes, without changing the public and / or private address.
+- Fully redundant network designs with Juniper, for a large retail customer with 110+ devices with 2 links in each location, fully switchable using IPsec VPN and BGP dynamic  routing and GRE tunnels.
+- Activation of new clients using a dedicated firewall.
+- Activation of BGP between operators, Tunnels to mitigate DDoS attacks.
 ```
 
 ##### Ascenty Datacenter - Campinas - Brazil
@@ -62,27 +56,26 @@ Activation of BGP between operators, Tunnels to mitigate DDoS attacks.
 Visiting Arista Headquarter in San Francisco, EUA, For a meeting of construction new datacenter site using Arista network solution.
 
 ```
-I worked with the Ascenty network engineering team as a network analyst, being responsible for ensuring the alignment, technical feasibility and standardization of data center network deliveries involving Cloud, Hosting and Colocation. In addition I worked on incidents and requests staggered to the last level.
+- I worked with the Ascenty network engineering team as a network analyst, being responsible for ensuring the alignment, technical feasibility and standardization of data center network deliveries involving Cloud, Hosting and Colocation. In addition I worked on incidents and requests staggered to the last level.
+- I was responsible for the implementation of firewalls from different platforms and manufacturers such as Cisco, Juniper, Fortinet and PFsense.
+- Implemented the shared VPN product using A-P clustered equipment in different contexts for certain applications, offering SSL-VPN and Site-to-site services over IPSEC.
 
-I was responsible for the implementation of firewalls from different platforms and manufacturers such as Cisco, Juniper, Fortinet and PFsense.
+-Activation of new clients using a dedicated firewall, using the platforms:
 
-Implemented the shared VPN product using A-P clustered equipment in different contexts for certain applications, offering SSL-VPN and Site-to-site services over IPSEC.
-
-Activation of new clients using a dedicated firewall, using the platforms:
-
-- Juniper: SRX100, SRX240, SRX650, SRX550, SRX3600
-- Fortigate: 30E, 60D, 80C, 90D, 100D, 200B, 300C, 800D, 1000D
-- Cisco: ASA5505, ASA5510, ASA5520
-- Dell Sonicwall: NSA240, NSA3500, NSA2400
-- Pfsense 2.1
+ Juniper: SRX100, SRX240, SRX650, SRX550, SRX3600
+ Fortigate: 30E, 60D, 80C, 90D, 100D, 200B, 300C, 800D, 1000D
+ Cisco: ASA5505, ASA5510, ASA5520
+ Dell Sonicwall: NSA240, NSA3500, NSA2400
+ Pfsense 2.1
 
 - Main applied functionalities: HA (A-P), clustering, NAT source, NAT destination, static NAT, VPN Site-to-Site, VPN remote-access, OSPF routing, ACL, AAA, packet sniffer.
 
 - Routing & Swithcing:
-Cisco: Nexus7K, Nexus 5K, Nexus 2K, Nexus1000V, C3560X, C3750X, C2960S.
-Juniper: EX2200, QFX3500, MX5, MX480, MX960
-Dell / Force10: Power connect M8024K, Force10-S4810, MXL10
-MiKrotik: CCR1036-12G
+- Cisco: Nexus7K, Nexus 5K, Nexus 2K, Nexus1000V, C3560X, C3750X, C2960S.
+- Juniper: EX2200, QFX3500, MX5, MX480, MX960
+- Dell / Force10: Power connect M8024K, Force10-S4810, MXL10
+- Arista 7000 Series
+- MiKrotik: CCR1036-12G
 
 ```
 
