@@ -100,11 +100,9 @@ MiKrotik: CCR1036-12G
 ### PROFESSIONAL ON JOB COMPUTER AND CERTIFIED TRAINING COURSES:
 
 ```
-- AWS Security Fundamentals
+- AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
 - AWS Technical Professional
-- AWS CloudFront
-- VMWare NSX: The technical overview
 - Linux Professional Institute - LPI 101
 ```
 
