@@ -101,6 +101,8 @@ MiKrotik: CCR1036-12G
 
 ```
 - AWS re:INVENT 2019 - Las Vegas, Nevada, EUA
+- OpenStack Day 2019 - São Paulo, brazil
+- AWS Summit 2018 - São Paulo, Brazil
 
 - AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
