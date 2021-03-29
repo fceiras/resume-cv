@@ -6,7 +6,7 @@
 
 ### WORK EXPERIENCE
 
-#### Ativy, Campinas
+#### Ativy - Campinas - SP - Brazil
 * Senior Network analisty 
 
 ###### SINCE Jan 2020
@@ -14,7 +14,7 @@
 ```
 ```
 
-##### Movile - Campinas - Brazil 
+##### Movile - Campinas - SP - Brazil 
 * Senior infrastructure analisty
 
 
@@ -35,7 +35,7 @@ Performance in the area of ​​Networks / SysAdmin / Infra / DevOps
 - Administration of jobs for build, deploy environments and applications based on Apache, Wildfly, JBoss, Tomcat in Postgres, MySQL, RDS databases.
 ```
 
-##### Ativy - Campinas Brazil
+##### Ativy - Campinas - SP - Brazil
 * Network specialist
 
 ```
@@ -48,7 +48,7 @@ Performance in the area of ​​Networks / SysAdmin / Infra / DevOps
 - Activation of BGP between operators, Tunnels to mitigate DDoS attacks.
 ```
 
-##### Ascenty Datacenter - Campinas - Brazil
+##### Ascenty Datacenter - Campinas  - SP - Brazil
 * Network analisty
 
 ###### JUN 2014 - SET 2016
@@ -134,5 +134,5 @@ Visiting Arista Headquarter in San Francisco, EUA, For a meeting of construction
 
 ### OTHER INFORMATION WHICH MAY CONCERN:
 ```
-- US Valid VISA.
+- US Valid VISA, B1/B2
 ```
