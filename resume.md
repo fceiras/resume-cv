@@ -23,15 +23,10 @@
 Performance in the area of ​​Networks / SysAdmin / Infra / DevOps
 
 - Responsible for planning, installing and configuring the new colocation racks, applying new routing and redundancy practices and technology.
-
 - Creation, update and maintenance of CI / CD environment based on git, jenkins, terraform, chef, docker, kubernetes, zabbix and prometheus.
-
 - Day-to-day with tools such as Jenkins, Chef, Kubernetes, Docker, Rancher, Terraform, Kitchen, Groovy, Ruby and Shell scripts.
-
 - Experience in public cloud environments using AWS, GogleCloud, Azure, Oracle Cloud, and private cloud using VMWare and XenServer / XCP.
-
 - Management of more than 900 instances in production and testing on AWS, GogleCloud, Azure, OracleCloud, VMWare and XenServer / XCP in which it passes over 1.2 billion SMS messages and 30 million WhatsApp messages per month.
-
 - Administration of jobs for build, deploy environments and applications based on Apache, Wildfly, JBoss, Tomcat in Postgres, MySQL, RDS databases.
 ```
 
