@@ -4,32 +4,6 @@
 * LinkeIn: https://www.linkedin.com/in/fabricio-eiras-9716055b/
 
 
-### PROFESSIONAL SKILLS:
-
-As a seasoned professional with more than twenty years of experience, I had the opportunity of working for different industries such as Internet Service Providers, Banks, News Media and Tourism.
-I have a broad experience in operations, systems architecture and infrastructure.
-
-Between my knowledge of open source solutions and past experiences, I am able to deliver reliable and fast low-cost solutions.
-
-My experience managing large and complex environments allows me to identify the best practices to deliver excellent results, both independently and as part of a team.
-
-### COMPUTER LITERACY:
-
-- Solid technological experience on several applications as follows: VMWare, Linux, AWS
-  virtualization, PV2, Vmotion, Storage, HA, balancer, Tunning and vSphere and its functionalities.
-- On AWS environment: Large experience on EC2, EBS, Security Group, VPC, VPN, AutoScaling, 
-  Route 53, CloudWatch ELB, S3, CDN and RDS.
-- On Linux environment: Solid experience with Web Servers, Varnish cache application, Wordpress
-  Blog server, VPN, FTP server, OpenLdap implementation, IPTables security FW, MySQL database,
-  AWStats, DHCP server, Linux Shell script coding, Phyton, Ansible, Terraform and also K8s for
-  computer tasks automation.
-- On AWS platform: Vast experience on deploying new server machines and DR environment.
-  Administration of applications as follows: Balancers, Firewall, Backup, Storage and other
-  solutions such as AKAMAI CDN configuration and testing, BIG-IP, F5 and A10 Networks balancer
-  solutions. Irules, Virtual pool servers for servers loading distribution, Storage and iSCSI
-  protocol.
-
-
 ### WORK EXPERIENCE
 
 #### Ativy, Campinas
@@ -85,6 +59,7 @@ Activation of BGP between operators, Tunnels to mitigate DDoS attacks.
 
 ###### JUN 2014 - SET 2016
 
+```
 I worked with the Ascenty network engineering team as a network analyst, being responsible for ensuring the alignment, technical feasibility and standardization of data center network deliveries involving Cloud, Hosting and Colocation. In addition I worked on incidents and requests staggered to the last level.
 
 I was responsible for the implementation of firewalls from different platforms and manufacturers such as Cisco, Juniper, Fortinet and PFsense.
@@ -112,6 +87,7 @@ MiKrotik: CCR1036-12G
 ###### DEZ 2012 - JUN 2014
 * Linux analisty
 
+```
 - Level II Analyst, working on troubleshooting operating systems, Windows Server, Linux, Juniper SRX firewall configuration
 ```
 
