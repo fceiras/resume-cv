@@ -59,6 +59,8 @@ Activation of BGP between operators, Tunnels to mitigate DDoS attacks.
 
 ###### JUN 2014 - SET 2016
 
+Visiting Arista Headquarter in San Francisco, EUA, For a meeting of construction new datacenter site using Arista network solution.
+
 ```
 I worked with the Ascenty network engineering team as a network analyst, being responsible for ensuring the alignment, technical feasibility and standardization of data center network deliveries involving Cloud, Hosting and Colocation. In addition I worked on incidents and requests staggered to the last level.
 
