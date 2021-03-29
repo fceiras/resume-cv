@@ -1,7 +1,7 @@
 ![Fabricio](https://avatars.githubusercontent.com/u/65662267?v=4) 
 # Fabricio Carriero Eiras
 * E-mail: fabricio.eiras@gmail.com
-* LinkeIn: https://www.linkedin.com/in/fabricio-eiras-9716055b/
+* LinkedIn: https://www.linkedin.com/in/fabricio-eiras-9716055b/
 
 
 ### WORK EXPERIENCE
