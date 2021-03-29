@@ -103,6 +103,7 @@ MiKrotik: CCR1036-12G
 - AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
 - AWS Technical Professional
+- AWS Introduction to Amazon Virtual Private Cloud (VPC)
 - Linux Professional Institute - LPI 101
 ```
 
