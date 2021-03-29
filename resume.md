@@ -97,9 +97,11 @@ MiKrotik: CCR1036-12G
 ##### UNIP, Campinas
 * technologist in computer networks
 
-### PROFESSIONAL ON JOB COMPUTER AND CERTIFIED TRAINING COURSES:
+### PROFESSIONAL ON JOB COMPUTER AND CERTIFIED TRAINING COURSES AND EVENTS:
 
 ```
+- AWS re:INVENT 2019 - Las Vegas, Nevada, EUA
+
 - AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
 - AWS Technical Professional
