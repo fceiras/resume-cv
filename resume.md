@@ -4,6 +4,7 @@
 * LinkedIn: https://www.linkedin.com/in/fabricio-eiras-9716055b/
 
 
+
 ### WORK EXPERIENCE
 
 #### Ativy - Campinas - SP - Brazil
@@ -20,7 +21,7 @@
 
 ###### Fev 2018 - Jan 2020
 ```
-Performance in the area of ​​Networks / SysAdmin / Infra / DevOps
+Performance in the area of ​​Networks / SysAdmin / Infra / DevOps / SRE
 
 - Responsible for planning, installing and configuring the new colocation racks, applying new routing and redundancy practices and technology.
 - Creation, update and maintenance of CI / CD environment based on git, jenkins, terraform, chef, docker, kubernetes, zabbix and prometheus.
