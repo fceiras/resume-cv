@@ -21,7 +21,7 @@
 
 ###### Fev 2018 - Jan 2020
 ```
-Performance in the area of ​​Networks / SysAdmin / Infra / DevOps / SRE
+Performance in the area of ​​Networks / SysAdmin / Infra / DevOps / SRE / AWS / GCP / Azure / Kubenetes
 
 - Responsible for planning, installing and configuring the new colocation racks, applying new routing and redundancy practices and technology.
 - Creation, update and maintenance of CI / CD environment based on git, jenkins, terraform, chef, docker, kubernetes, zabbix and prometheus.
@@ -92,35 +92,36 @@ Visiting Arista Headquarter in San Francisco, EUA, For a meeting of construction
 
 ```
 - AWS re:INVENT 2019 - Las Vegas, Nevada, EUA
-- Visinting Google Headquarter Silicon Valey, San Francisco, EUA - 2016
-- Visinting Arista and Citrix Headquarter in Silicon Valey, San Francisco, EUA - 2016
 - OpenStack Day 2019 - São Paulo, brazil
 - AWS Summit 2018 - São Paulo, Brazil
-- IX (PTT) Forum 9 2015 - São Paulo, Brazil
+- Visinting Google Headquarter Silicon Valey, San Francisco, EUA - 2016
+- Visinting Arista and Citrix Headquarter in Silicon Valey, San Francisco, EUA - 2016
 - IX (PTT) Forum 10 2016 - São Paulo, Brazil
+- IX (PTT) Forum 9 2015 - São Paulo, Brazil
+
 
 - IPv6 Basic with emphasis in Network Services - 2016 - Ceptro.br - São Paulo, Brazil
 
-- Terraform for Devops
-- Uncomplicating Kubernets
-- AWS Cloud Practitioner Essentials
-- AWS Technical Essentials
-- AWS Technical Professional
-- AWS Introduction to Amazon Virtual Private Cloud (VPC)
-- CISCO Cisco CCNA 2014
-- Juniper MPLS and VPNs (JMV)
-- Juniper Advanced Network Wireless Lans (AJWL)
-- Juniper Advanced Junos Security (AJSEC)
-- Juniper Security Enablment: ScreeOS to Junos OS (JSLSEC)
-- Juniper Advanced Entreprise Switchng Tshoot (AJEXT)-ILO
-- Juniper Junos WeAPP Secure
-- Microsoft Mantaining a Microsoft Windows Server 2003
-- Microsoft Implementing a Microsoft Windows Server 2003 Network Infrastructur: Network Hosts
-- Microsoft Implementing, Managing and Maintaing a Microsoft Windows Server 2003: Network Services
-- Microsoft Implementing and Managing Microsoft Exchange Server 2003
-- Microsoft Installing, Configuring and Administering Windows XP Pro
-- Microsoft Managing a Microsoft Windows Server 2003 (MCSA - PeopleTec)
-- Linux Professional Institute - LPIC 1
+- Terraform - Terraform for Devops
+- Kubenetes - Uncomplicating Kubernets
+- AWS       - Cloud Practitioner Essentials
+- AWS       - Technical Essentials
+- AWS       - Technical Professional
+- AWS       - Introduction to Amazon Virtual Private Cloud (VPC)
+- CISCO     - Cisco CCNA 2014
+- Juniper   - MPLS and VPNs (JMV)
+- Juniper   - Advanced Network Wireless Lans (AJWL)
+- Juniper   - Advanced Junos Security (AJSEC)
+- Juniper   - Security Enablment: ScreeOS to Junos OS (JSLSEC)
+- Juniper   - Advanced Entreprise Switchng Tshoot (AJEXT)-ILO
+- Juniper   - Junos WeAPP Secure
+- Microsoft - Mantaining a Microsoft Windows Server 2003
+- Microsoft - Implementing a Microsoft Windows Server 2003 Network Infrastructur: Network Hosts
+- Microsoft - Implementing, Managing and Maintaing a Microsoft Windows Server 2003: Network Services
+- Microsoft - Implementing and Managing Microsoft Exchange Server 2003
+- Microsoft - Installing, Configuring and Administering Windows XP Pro
+- Microsoft - Managing a Microsoft Windows Server 2003 (MCSA - PeopleTec)
+- Linux     - Professional Institute - LPIC 1
 ```
 
 ### LANGUAGE SKILLS:
