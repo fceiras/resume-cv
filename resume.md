@@ -8,7 +8,7 @@
 ### WORK EXPERIENCE
 
 #### Ativy - Campinas - SP - Brazil
-* Senior Network analisty 
+* Senior Cloud Infrastructure Analyst
 
 ###### SINCE Jan 2020
 
