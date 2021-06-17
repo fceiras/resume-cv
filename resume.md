@@ -101,7 +101,8 @@ Visiting Arista Headquarter in San Francisco, EUA, For a meeting of construction
 
 - IPv6 Basic with emphasis in Network Services - 2016 - Ceptro.br - São Paulo, Brazil
 
-
+- Terraform for Devops
+- Uncomplicating Kubernets
 - AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
 - AWS Technical Professional
