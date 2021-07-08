@@ -7,10 +7,16 @@
 
 ### WORK EXPERIENCE
 
+#### Ativy Dgital - Campinas - SP - Brazil
+* SRE | Devops Engineer 
+
+###### SINCE July 2021
+
+
 #### Ativy - Campinas - SP - Brazil
 * Senior Cloud Infrastructure Analyst
 
-###### SINCE Jan 2020
+###### SINCE Jan 2020 - July 2021
 
 ```
 ```
