@@ -7,7 +7,7 @@
 
 ### WORK EXPERIENCE
 
-#### Ativy Dgital - Campinas - SP - Brazil
+#### Ativy Digital - Campinas - SP - Brazil
 * SRE | Devops Engineer 
 
 ###### SINCE July 2021
@@ -109,6 +109,7 @@ Visiting Arista Headquarter in San Francisco, EUA, For a meeting of construction
 - IPv6 Basic with emphasis in Network Services - 2016 - Ceptro.br - São Paulo, Brazil
 
 - Terraform - Terraform for Devops
+- Docker    - Containers Fundamentals
 - Kubenetes - Uncomplicating Kubernets
 - AWS       - Cloud Practitioner Essentials
 - AWS       - Technical Essentials
